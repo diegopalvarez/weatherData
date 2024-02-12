@@ -3,7 +3,7 @@ In this project, I created a C program that receives a large amount of weather d
 
 ## Functionalities
 The available actions for the data given are:
-* Find the maximum and minimum temperature registered on a given date range, as well as all the data regarding the station it was registered in
+* Find the highest and lowest temperature registered on a given date range, as well as all the data regarding the station it was registered in
 * Find the average maximum and minimum temperatures registered on a given date among the different weather stations loaded to the database
 
 ## How to use it
